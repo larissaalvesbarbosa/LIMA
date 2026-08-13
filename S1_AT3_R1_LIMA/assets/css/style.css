@@ -1,0 +1,14 @@
+/*Comentários*/
+body {
+    background-color:chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    font-size: 48;
+}
+div{
+    background-color: brown;
+}
+li{
+    color: burlywood;
+}
